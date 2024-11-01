@@ -5,6 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 uv-source,UV Source,,
+uv-lamp,UV Lamp,,
 fluorescence-color,Fluorescence Color,,
 intensity-of-fluorescence,Intensity Of Fluorescence,, 
 additional-comments,Additional Comments On Fluorescence Color,,
