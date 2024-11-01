@@ -4,7 +4,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-uv-source,UV Source,
+uv-source,UV Source,,
 location,Location
 latitude,Latitude
 longitude,Longitude
