@@ -5,6 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 uv-source,UV Source,,
+fluorescence-color,Fluorescence Color,,
 location,Location
 latitude,Latitude
 longitude,Longitude
