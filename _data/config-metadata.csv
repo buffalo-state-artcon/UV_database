@@ -6,9 +6,8 @@ description,Description,
 subject,Subjects,true
 uv-source,UV Source,,
 fluorescence-color,Fluorescence Color,,
+additional-comments,Additional Comments On Fluorescence Color,,
 location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
