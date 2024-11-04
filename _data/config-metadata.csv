@@ -6,6 +6,8 @@ description,Description,
 subject,Subjects,true
 common-name,Common Name,,
 chemical-name,Chemical Name,,
+stand-alone,Stand Alone or Part of an Object,,
+organic-inorganic,Organic or Inorganic,,
 uv-source,UV Source,,
 uv-lamp,UV Lamp,,
 fluorescence-color,Fluorescence Color,,
