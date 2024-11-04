@@ -4,6 +4,8 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+common-name,Common Name,,
+chemical-name,Chemical Name,,
 uv-source,UV Source,,
 uv-lamp,UV Lamp,,
 fluorescence-color,Fluorescence Color,,
